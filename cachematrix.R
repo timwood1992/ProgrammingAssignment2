@@ -1,7 +1,7 @@
 ## R Programming Class
 ## Programming Assignment 2
 
-## This program is submitted for Prgramming Assigment 2 of the R Programming Class (rprog-004) offered
+## This program is submitted for Programming Assignment 2 of the R Programming Class (rprog-004) offered
 ## through Coursera.  It is located in the gitHub repository for timwood1992.
 ## Folder location is:  https://github.com/timwood1992/ProgrammingAssignment2
 
@@ -52,5 +52,5 @@ cacheSolve <- function(x, ...) {
     m
 }
 
-
+  
 
